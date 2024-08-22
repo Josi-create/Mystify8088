@@ -1,0 +1,39 @@
+DOSBox version 0.74-3
+Copyright 2002-2019 DOSBox Team, published under GNU GPL.
+---
+SDL_Init: Starting up with SDL windib video driver.
+          Try to update your video card and directx drivers!
+CONFIG:Loading primary settings from config file A:\DOSBox\dosbox.conf
+"#" is not a valid value for variable: force.
+It might now be reset it to default value: 
+MIDI:Opened device:win32
+DOS keyboard layout loaded with main language code GR for layout gr
+CPU speed: fixed 264 cycles.
+CPU speed: fixed 290 cycles.
+CPU speed: fixed 319 cycles.
+CPU speed: fixed 350 cycles.
+CPU speed: fixed 385 cycles.
+CPU speed: fixed 423 cycles.
+CPU speed: fixed 465 cycles.
+CPU speed: fixed 511 cycles.
+CPU speed: fixed 562 cycles.
+CPU speed: fixed 618 cycles.
+CPU speed: fixed 679 cycles.
+CPU speed: fixed 746 cycles.
+CPU speed: fixed 820 cycles.
+CPU speed: fixed 902 cycles.
+CPU speed: fixed 992 cycles.
+CPU speed: fixed 1091 cycles.
+CPU speed: fixed 1200 cycles.
+CPU speed: fixed 1320 cycles.
+CPU speed: fixed 1452 cycles.
+CPU speed: fixed 1597 cycles.
+CPU speed: fixed 1756 cycles.
+SHELL:Redirect output to error.log
+CPU speed: fixed 1931 cycles.
+CPU speed: fixed 2124 cycles.
+CPU speed: fixed 2336 cycles.
+CPU speed: fixed 2569 cycles.
+CPU speed: fixed 2825 cycles.
+SHELL:Redirect output to error.log
+CPU speed: fixed 3107 cycles.
