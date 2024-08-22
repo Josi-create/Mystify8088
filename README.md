@@ -6,6 +6,6 @@ A tribute to "PCRetroProgrammer" which uses the myline.asm routine, the best and
 
 You can run mystify.exe on your 8088 machine. ESC for Quit, Space for Clear Screen
 
-If you want to compile it yourself, you need to install Borland Turbo Assembler and Borland Turbo C on your machine and set the path correctly. Just start compiling by typing "mach.bat".
+If you want to compile it yourself, you need to install Borland Turbo Assembler and Borland Turbo C on your machine and set the path correctly. Just start compiling by typing "mach.bat myline mystify".
 
 If you run it in Dosbox, you should set the cycles to 240 to play it at real 8088 speed.
