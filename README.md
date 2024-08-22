@@ -1,6 +1,6 @@
 CGA Mystify my life 8088
 
-The classic Windows 95 screensaver "Mystify my life" running on an 8088 machine like the IBM PC 5051.
+The classic Windows 95 screensaver "Mystify" running on an 8088 machine like the IBM PC 5051.
 It runs on CGA machines in 320x200, 4-colour mode.
 A tribute to "PCRetroProgrammer" which uses the myline.asm routine, the best and fastest line drawing code for 8088s ever written. (http://www.youtube.com/@pcretroprogrammer2656)
 
